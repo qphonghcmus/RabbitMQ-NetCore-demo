@@ -1,2 +1,2 @@
 # RabbitMQ-NetCore-demo
-Demo RabbitMQ Net 5.0
+Demo RabbitMQ with ASP.Net 5.0
